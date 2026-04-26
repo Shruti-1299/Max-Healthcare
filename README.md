@@ -52,7 +52,7 @@ Generated insights on patient demographics and disease trends
 •	Tableau
 
 ## Excel Doctor Dashboard
-
+https://github.com/Shruti-1299/Max-Healthcare/blob/main/Excel%20Doctor%20dashboard.png
 
 ## Excel Patient Dashboard
 

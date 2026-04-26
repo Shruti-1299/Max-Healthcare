@@ -58,6 +58,6 @@ https://github.com/Shruti-1299/Max-Healthcare/blob/main/Excel%20Doctor%20dashboa
 https://github.com/Shruti-1299/Max-Healthcare/blob/main/Excel%20Patient%20Dashboard.png
 
 ## PowerBI
-
+https://github.com/Shruti-1299/Max-Healthcare/blob/main/PowerBI%20Dashboard.png
 
 ## Tableau

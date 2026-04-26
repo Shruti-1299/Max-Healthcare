@@ -61,3 +61,4 @@ https://github.com/Shruti-1299/Max-Healthcare/blob/main/Excel%20Patient%20Dashbo
 https://github.com/Shruti-1299/Max-Healthcare/blob/main/PowerBI%20Dashboard.png
 
 ## Tableau
+https://github.com/Shruti-1299/Max-Healthcare/blob/main/Tableau%20Dashboard.png

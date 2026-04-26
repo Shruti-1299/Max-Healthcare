@@ -55,7 +55,7 @@ Generated insights on patient demographics and disease trends
 https://github.com/Shruti-1299/Max-Healthcare/blob/main/Excel%20Doctor%20dashboard.png
 
 ## Excel Patient Dashboard
-
+https://github.com/Shruti-1299/Max-Healthcare/blob/main/Excel%20Patient%20Dashboard.png
 
 ## PowerBI
 

@@ -15,19 +15,49 @@ How are patients distributed by gender?
 Which blood group has the highest number of patients?
 
 What is the distribution of patients across different races?
+
 What are the most common diagnosis conditions?
+
 How many patients are categorized as healthy vs diagnosed?
+
 What percentage of patients have a history of diabetes?
+
 How does diagnosis vary across different races?
+
 Is there any noticeable pattern between gender and diagnosis?
+
 Which group shows higher cases of chronic conditions?
 
  ##Project Process (In Short)
+ 
 Collected healthcare dataset (Excel/CSV)
+
 Cleaned data (handled NULLs, duplicates, formatting)
+
 Created calculated fields and KPIs
+
 Built data model and relationships
-Designed interactive dashboard in Tableau
+
+Designed interactive dashboard in Excel, PowerBI & Tableau
+
 Added filters for dynamic analysis
+
 Generated insights on patient demographics and disease trends
-Uploaded project with dataset and documentation on GitHub
+
+## Tools & Technologies
+•	Power BI
+
+•	Excel
+
+•	Tableau
+
+## Excel Doctor Dashboard
+
+
+## Excel Patient Dashboard
+
+
+## PowerBI
+
+
+## Tableau

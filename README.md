@@ -1,2 +1,5 @@
-# Max-Healthcare
-This project presents an interactive Healthcare Analytics Dashboard built in Excel, PowerBI, Tableau to analyze patient, diagnosis, and hospital operational data. The goal is to provide meaningful insights into patient demographics, disease distribution, and healthcare performance metrics.
+# Max Healthcare (Interactive Dashboard creation using Excel, Tableau & PowerBI)
+## Project Objective
+To build a dynamic and interactive healthcare dashboard using data visualization tools to analyze key metrics such as patient demographics, diagnosis trends, and treatment costs, helping stakeholders make informed and efficient decisions.
+
+## Dataset used
